@@ -1,0 +1,31 @@
+<br /><br />
+<div id="view-content">
+	<p>View script for controller <b>Doctor</b> and script/action name <b>login</b></p>
+        
+
+</div>
+
+<head>
+    <?php echo $this->headTitle('Login'); ?>
+</head>
+
+<body>
+    <h2>Login</h2>
+    <form method="post" action="login-doctor">
+    <table width="400" border="0" cellpadding="5">
+        <tr>
+            <td>Login number:</td>
+            <td><input type="text" name="loginNumber"/></td> 
+        </tr>
+        
+        <tr>
+            <td>Password:</td>
+            <td> <input type="password" name="password"/> </td>
+        </tr>  
+        <tr>
+            <td><input type="submit" value="login"></td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

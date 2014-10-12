@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/var/www/site/application/views/scripts/includes/header.xhtml</file>
+            <file>file:/var/www/site/application/views/scripts/doctor/welcome.phtml</file>
+            <file>file:/var/www/site/application/controllers/TestController.php</file>
+            <file>file:/var/www/site/application/views/scripts/doctor/login.phtml</file>
+            <file>file:/var/www/site/application/controllers/DoctorController.php</file>
+            <file>file:/var/www/site/application/views/scripts/doctor/index.phtml</file>
+            <file>file:/var/www/site/application/controllers/StudentController.php</file>
+        </group>
     </open-files>
 </project-private>
